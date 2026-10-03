@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title>Three Ways to Style It</title><desc>Editorial demo artwork for the creator portfolio template.</desc>
+
+        <rect width="1200" height="900" fill="#d9d0c9"/>
+        <rect x="70" y="70" width="440" height="760" fill="#3e3430"/>
+        <rect x="570" y="140" width="540" height="310" fill="#8d6d5c"/>
+        <circle cx="800" cy="600" r="145" fill="#3e3430" opacity=".9"/>
+        <rect x="570" y="690" width="410" height="18" fill="#3e3430" opacity=".65"/>
+        <rect x="570" y="725" width="280" height="10" fill="#3e3430" opacity=".4"/>
+        <text x="95" y="790" fill="#8d6d5c" font-family="Arial" font-size="30" letter-spacing="6">THREE WAYS TO STYLE IT</text>
+        
+</svg>

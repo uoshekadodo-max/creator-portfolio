@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title>Product Test</title><desc>Editorial demo artwork for the creator portfolio template.</desc>
+
+        <rect width="1200" height="900" fill="#d7c9c1"/>
+        <rect x="70" y="70" width="440" height="760" fill="#473a35"/>
+        <rect x="570" y="140" width="540" height="310" fill="#9a5c3f"/>
+        <circle cx="800" cy="600" r="145" fill="#473a35" opacity=".9"/>
+        <rect x="570" y="690" width="410" height="18" fill="#473a35" opacity=".65"/>
+        <rect x="570" y="725" width="280" height="10" fill="#473a35" opacity=".4"/>
+        <text x="95" y="790" fill="#9a5c3f" font-family="Arial" font-size="30" letter-spacing="6">PRODUCT TEST</text>
+        
+</svg>

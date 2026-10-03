@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+<title>Maya Johnson demo portrait</title><desc>Editorial demo artwork for the creator portfolio template.</desc>
+
+        <rect x="75" y="75" width="750" height="975" fill="#d7c7b4"/>
+        <circle cx="450" cy="390" r="150" fill="#332a24" opacity=".92"/>
+        <path d="M170 980 Q230 650 450 650 Q670 650 730 980Z" fill="#332a24"/>
+        <rect x="120" y="120" width="250" height="12" fill="#9a5c3f"/>
+        <rect x="120" y="145" width="170" height="6" fill="#332a24" opacity=".4"/>
+        <text x="120" y="1010" fill="#9a5c3f" font-family="Arial" font-size="24" letter-spacing="5">MAYA JOHNSON DEMO PORTRAIT</text>
+        
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title>Sunday Reset</title><desc>Editorial demo artwork for the creator portfolio template.</desc>
+
+        <rect width="1200" height="900" fill="#ded8c8"/>
+        <rect x="70" y="70" width="440" height="760" fill="#49433a"/>
+        <rect x="570" y="140" width="540" height="310" fill="#9a5c3f"/>
+        <circle cx="800" cy="600" r="145" fill="#49433a" opacity=".9"/>
+        <rect x="570" y="690" width="410" height="18" fill="#49433a" opacity=".65"/>
+        <rect x="570" y="725" width="280" height="10" fill="#49433a" opacity=".4"/>
+        <text x="95" y="790" fill="#9a5c3f" font-family="Arial" font-size="30" letter-spacing="6">SUNDAY RESET</text>
+        
+</svg>
